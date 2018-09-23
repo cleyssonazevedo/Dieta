@@ -2,7 +2,7 @@
   "expo": {
     "name": "dieta",
     "description": "Aplicação com o objetivo de gerenciar dietas",
-    "slug": "dieta",
+    "slug": "Dieta",
     "privacy": "public",
     "sdkVersion": "30.0.0",
     "platforms": ["android"],
@@ -19,6 +19,9 @@
     },
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.sumare.dieta"
+    }
   }
 }

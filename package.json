@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "expo start",
-    "android": "expo start --android",
+    "build": "expo build:android",
     "test": "node ./node_modules/jest/bin/jest.js --watchAll"
   },
   "jest": {
