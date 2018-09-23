@@ -1,18 +1,19 @@
 {
   "expo": {
-    "name": "dieta",
+    "name": "Dieta",
     "description": "Aplicação com o objetivo de gerenciar dietas",
     "slug": "Dieta",
     "privacy": "public",
     "sdkVersion": "30.0.0",
     "platforms": ["android"],
     "version": "1.0.0",
+    "primaryColor": "#ff7b00",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#fff1d1"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
